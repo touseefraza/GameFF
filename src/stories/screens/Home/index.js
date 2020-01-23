@@ -24,7 +24,7 @@ class Home extends React.Component<Props, State> {
   render() {
     return (
       <Container style={styles.container}>
-        <Header>
+        <Header style={{backgroundColor:"#00858d"}}>
           <Left>
             <Button transparent>
               <Icon

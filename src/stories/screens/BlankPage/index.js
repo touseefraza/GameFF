@@ -11,7 +11,7 @@ class BlankPage extends React.Component<Props, State> {
 		const param = this.props.navigation.state.params;
 		return (
 			<Container style={styles.container}>
-				<Header>
+				<Header style={{backgroundColor:"#00858d"}}>
 					<Left>
 						<Button transparent onPress={() => this.props.navigation.goBack()}>
 							<Icon name="ios-arrow-back" />
