@@ -3,7 +3,6 @@
 
 ### A [React Native](https://facebook.github.io/react-native/docs/getting-started.html) Starter Kit with [NativeBase](https://nativebase.io/) + [React Navigation](https://reactnavigation.org/) + [MobX](https://github.com/mobxjs/mobx) Apps (iOS & Android)
 
-*Brought to you by [GeekyAnts](https://geekyants.com/)*
 
 
 ## Get Started
@@ -20,9 +19,9 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/GeekyAnts/react-native-boilerplate-mobx-flow.git
+$ git clone https://github.com/touseefraza/MobileAppFreeEvents.git
 
-$ cd react-native-boilerplate-mobx-flow/
+$ cd MobileAppFreeEvents/
 
 $ npm install
   or
@@ -44,5 +43,7 @@ $ npm install
 		*	Scan the QR code in your Expo app
 	*	Opt #2:
 		*	Run `npm run android` in your terminal
+
+
 
 
