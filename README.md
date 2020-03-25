@@ -19,9 +19,9 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/touseefraza/MobileAppFreeEvents.git
+$ git clone https://github.com/touseefraza/GameFF.git
 
-$ cd MobileAppFreeEvents/
+$ cd GameFF/
 
 $ npm install
   or
