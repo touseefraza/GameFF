@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "expo": "^31.0.4",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "mobx": "5.8.0",
     "mobx-react": "5.4.3",
     "native-base": "2.8.2",
